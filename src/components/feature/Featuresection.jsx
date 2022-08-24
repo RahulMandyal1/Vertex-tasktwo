@@ -10,7 +10,7 @@ function Featuresection() {
       <div className="cards-container">
         <Card
           width={"flex-23"}
-          iconurl={"here comes the image "}
+          iconurl={"https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-setting-esport-xnimrodx-blue-xnimrodx.png"}
           altText="alt text goes here"
           cardHeading="Construction Management"
           cardDescription="
@@ -18,7 +18,7 @@ function Featuresection() {
         />
         <Card
           width={"flex-23"}
-          iconurl={"here comes the image "}
+          iconurl={"https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-setting-esport-xnimrodx-blue-xnimrodx.png"}
           altText="alt text goes here"
           cardHeading="Construction Management"
           cardDescription="
@@ -26,7 +26,7 @@ function Featuresection() {
         />
         <Card
           width={"flex-23"}
-          iconurl={"here comes the image "}
+          iconurl={"https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-setting-esport-xnimrodx-blue-xnimrodx.png"}
           altText="alt text goes here"
           cardHeading="Construction Management"
           cardDescription="
@@ -34,7 +34,7 @@ function Featuresection() {
         />
         <Card
           width={"flex-23"}
-          iconurl={"here comes the image "}
+          iconurl={"https://img.icons8.com/external-xnimrodx-blue-xnimrodx/64/000000/external-setting-esport-xnimrodx-blue-xnimrodx.png"}
           altText="alt text goes here"
           cardHeading="Construction Management"
           cardDescription="
