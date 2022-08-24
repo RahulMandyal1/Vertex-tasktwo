@@ -1,0 +1,39 @@
+.card-container {
+  padding: 6rem 2rem;
+  border: 0.1rem solid lightskyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  color: #000;
+  margin-bottom: 5rem;
+}
+.user-image {
+  position: absolute;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  border-radius: 50%;
+  top: 0rem;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+blockquote {
+  text-align: center;
+  line-height: 1.7;
+}
+
+.card-container h3 {
+  text-align: center;
+  font-size: 1.6rem;
+  margin: 2rem 0;
+  color: #0963eb;
+  font-weight: 400;
+}
+
+.card-container h5 {
+  text-align: center;
+  color: rgb(175, 174, 174);
+  font-size: 1.2rem;
+}

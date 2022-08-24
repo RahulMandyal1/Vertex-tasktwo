@@ -1,0 +1,42 @@
+.article-container{
+margin-bottom: 3rem;
+}
+
+.image-container {
+  width: 100%;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.article-info {
+  padding: 2rem;
+  border: 0.1rem solid #0c5dd7;
+  border-top: none;
+}
+
+.date-and-user span {
+  font-size: 1.3rem;
+  color: gray;
+  display: inline-block;
+}
+
+.article-user {
+  margin-left: 1rem;
+}
+.article-title {
+  font-size: 1.7rem;
+  margin: 2rem 0;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+.comment-count {
+  color: gray;
+  display: inline-block;
+  margin-left: 0.3rem;
+  font-size: 1.5rem;
+}

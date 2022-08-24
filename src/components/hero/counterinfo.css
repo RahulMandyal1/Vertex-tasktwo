@@ -1,0 +1,39 @@
+.modal-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: #fff;
+    color: #fff;
+    padding: 4rem;
+}
+
+.counter-text-container{
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    margin-bottom: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter-number{
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.counter-text{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+@media only screen and (max-width: 480px) {
+    .modal-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .feature-container{
+        margin-top:60rem;
+        padding: 10rem 2rem;
+    }
+  }

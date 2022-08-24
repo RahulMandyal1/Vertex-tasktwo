@@ -1,0 +1,35 @@
+.parallax-container{
+    min-height: 60vh;
+    background:linear-gradient(rgba(32, 77, 146, 0.549) ,rgba(37, 84, 154, 0.7)) , url("https://preview.colorlib.com/theme/vertex/images/xbg_3.jpg.pagespeed.ic.bFhnxKuREU.webp") ;
+    background-position: bottom;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    background-repeat:no-repeat;
+
+    object-fit: cover;
+
+}
+
+.content-container{
+    display: flex;
+    flex-direction: column;
+    padding: 0 20%;
+}
+
+.content-container p{
+    margin: 1rem 0 3rem 0 ;
+    text-align: center;
+}
+
+.content-container button{
+    padding: 1.2rem 3.2rem;
+    border: none;
+    background:rgba(0, 102, 255, 0.7) ;
+    color: #fff;
+    align-self: center;
+    font-size: 1.6rem;
+    font-weight: 600;
+}

@@ -1,0 +1,26 @@
+.card-container {
+  padding: 6rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 0.1rem solid #2977ea;
+  margin-bottom: 3rem;
+}
+
+.card-image {
+  width: 8rem;
+  object-fit: cover;
+}
+
+.card-heading {
+  margin: 2.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #333;
+  text-transform: uppercase;
+  text-align: center;
+}
+.card-desc {
+  font-size: 1.4rem;
+}
